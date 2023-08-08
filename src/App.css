@@ -1,0 +1,12 @@
+.box{
+  background-color: grey;
+  align-items: center;
+  height: 80%;
+  width: 70%;
+}
+
+.title1{
+  background-color: white;
+  border-radius: 4px;
+  width: 40%;
+}
